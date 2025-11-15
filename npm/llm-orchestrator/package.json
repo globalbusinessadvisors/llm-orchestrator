@@ -28,8 +28,7 @@
     "@llm-dev-ops/llm-orchestrator-linux-x64": "0.1.1",
     "@llm-dev-ops/llm-orchestrator-linux-arm64": "0.1.1",
     "@llm-dev-ops/llm-orchestrator-darwin-x64": "0.1.1",
-    "@llm-dev-ops/llm-orchestrator-darwin-arm64": "0.1.1",
-    "@llm-dev-ops/llm-orchestrator-win32-x64": "0.1.1"
+    "@llm-dev-ops/llm-orchestrator-darwin-arm64": "0.1.1"
   },
   "files": [
     "index.js",

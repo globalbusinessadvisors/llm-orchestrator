@@ -1,5 +1,5 @@
 # Multi-stage build for minimal production image
-FROM rust:1.75 as builder
+FROM rust:1.83 AS builder
 
 WORKDIR /build
 

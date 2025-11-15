@@ -14,7 +14,6 @@ function getPlatformPackage() {
     'linux-arm64': '@llm-dev-ops/llm-orchestrator-linux-arm64',
     'darwin-x64': '@llm-dev-ops/llm-orchestrator-darwin-x64',
     'darwin-arm64': '@llm-dev-ops/llm-orchestrator-darwin-arm64',
-    'win32-x64': '@llm-dev-ops/llm-orchestrator-win32-x64',
   };
 
   const key = `${platform}-${arch}`;
@@ -22,7 +21,8 @@ function getPlatformPackage() {
 
   if (!packageName) {
     console.error(`Unsupported platform: ${platform}-${arch}`);
-    console.error('Supported platforms: linux-x64, linux-arm64, darwin-x64, darwin-arm64, win32-x64');
+    console.error('Supported platforms: linux-x64, linux-arm64, darwin-x64, darwin-arm64');
+    console.error('Note: Windows is not currently supported');
     process.exit(1);
   }
 

@@ -12,7 +12,6 @@ function getPlatformPackage() {
     'linux-arm64': '@llm-dev-ops/llm-orchestrator-linux-arm64',
     'darwin-x64': '@llm-dev-ops/llm-orchestrator-darwin-x64',
     'darwin-arm64': '@llm-dev-ops/llm-orchestrator-darwin-arm64',
-    'win32-x64': '@llm-dev-ops/llm-orchestrator-win32-x64',
   };
 
   const key = `${platform}-${arch}`;
