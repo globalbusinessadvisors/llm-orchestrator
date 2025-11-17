@@ -22,7 +22,7 @@
     "gpt"
   ],
   "author": "LLM DevOps Team",
-  "license": "MIT OR Apache-2.0",
+  "license": "Apache-2.0",
   "homepage": "https://github.com/globalbusinessadvisors/llm-orchestrator",
   "optionalDependencies": {
     "@llm-dev-ops/llm-orchestrator-linux-x64": "0.1.5",

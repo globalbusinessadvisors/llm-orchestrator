@@ -45,7 +45,7 @@ Before publishing, ensure:
 - [x] All Cargo.toml files have correct metadata:
   - version = "0.1.0"
   - authors
-  - license = "MIT OR Apache-2.0"
+  - license = "Apache-2.0"
   - description
   - repository
   - keywords

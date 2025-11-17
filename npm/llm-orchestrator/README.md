@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/@llm-dev-ops/llm-orchestrator"><img src="https://img.shields.io/npm/v/@llm-dev-ops/llm-orchestrator.svg?style=flat-square" alt="npm version"></a>
   <a href="https://www.npmjs.com/package/@llm-dev-ops/llm-orchestrator"><img src="https://img.shields.io/npm/dm/@llm-dev-ops/llm-orchestrator.svg?style=flat-square" alt="npm downloads"></a>
-  <a href="https://github.com/globalbusinessadvisors/llm-orchestrator/blob/main/LICENSE-MIT"><img src="https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg?style=flat-square" alt="License"></a>
+  <a href="https://github.com/globalbusinessadvisors/llm-orchestrator/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg?style=flat-square" alt="License"></a>
   <a href="https://github.com/globalbusinessadvisors/llm-orchestrator"><img src="https://img.shields.io/github/stars/globalbusinessadvisors/llm-orchestrator.svg?style=flat-square&logo=github" alt="GitHub stars"></a>
   <a href="https://github.com/globalbusinessadvisors/llm-orchestrator/actions"><img src="https://img.shields.io/github/actions/workflow/status/globalbusinessadvisors/llm-orchestrator/ci.yml?style=flat-square" alt="Build Status"></a>
 </p>

@@ -2,7 +2,7 @@
 
 **Production-ready workflow orchestration engine for Large Language Models, written in Rust**
 
-[![License: MIT OR Apache-2.0](https://img.shields.io/badge/License-MIT%20OR%20Apache--2.0-blue.svg)](LICENSE)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-1.75%2B-orange.svg)](https://www.rust-lang.org/)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![Tests](https://img.shields.io/badge/tests-56%20passed-brightgreen.svg)]()
@@ -674,12 +674,9 @@ match executor.execute().await {
 
 ## License
 
-This project is dual-licensed under MIT OR Apache-2.0.
+This project is licensed under the Apache License 2.0.
 
-- MIT License: See [LICENSE-MIT](LICENSE-MIT) (if available)
-- Apache License 2.0: See [LICENSE-APACHE](LICENSE-APACHE) (if available)
-
-You may choose either license for your use.
+See [LICENSE](LICENSE) for the full license text.
 
 ---
 

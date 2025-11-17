@@ -466,7 +466,7 @@ info:
     name: API Support
     email: support@llm-orchestrator.io
   license:
-    name: MIT OR Apache-2.0
+    name: Apache-2.0
 
 servers:
   - url: https://api.llm-orchestrator.io/v1

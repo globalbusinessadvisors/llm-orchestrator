@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/@llm-dev-ops/llm-orchestrator-darwin-x64"><img src="https://img.shields.io/npm/v/@llm-dev-ops/llm-orchestrator-darwin-x64.svg?style=flat-square" alt="npm version"></a>
   <a href="https://www.npmjs.com/package/@llm-dev-ops/llm-orchestrator-darwin-x64"><img src="https://img.shields.io/npm/dm/@llm-dev-ops/llm-orchestrator-darwin-x64.svg?style=flat-square" alt="downloads"></a>
-  <a href="https://github.com/globalbusinessadvisors/llm-orchestrator/blob/main/LICENSE-MIT"><img src="https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg?style=flat-square" alt="License"></a>
+  <a href="https://github.com/globalbusinessadvisors/llm-orchestrator/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/platform-macOS%20Intel-lightgrey.svg?style=flat-square" alt="Platform">
 </p>
 
@@ -253,7 +253,7 @@ xcode-select --install
 
 ## 📄 License
 
-MIT OR Apache-2.0
+Apache-2.0
 
 ---
 

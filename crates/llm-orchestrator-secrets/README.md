@@ -185,4 +185,4 @@ See the main documentation for complete examples:
 
 ## License
 
-MIT OR Apache-2.0
+Apache-2.0

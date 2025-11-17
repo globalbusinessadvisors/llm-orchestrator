@@ -597,7 +597,7 @@ We welcome contributions! Please see our [Contributing Guide](../../CONTRIBUTING
 
 ## License
 
-This Helm chart is licensed under MIT OR Apache-2.0, the same as the LLM Orchestrator project.
+This Helm chart is licensed under Apache-2.0, the same as the LLM Orchestrator project.
 
 ## Changelog
 

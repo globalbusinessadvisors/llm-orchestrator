@@ -1090,4 +1090,4 @@ See [SDK Documentation](./SDK.md) for usage examples.
 
 ## License
 
-MIT OR Apache-2.0
+Apache-2.0
